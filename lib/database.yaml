@@ -1,0 +1,6 @@
+adapter: jdbcmysql
+host: localhost
+username: test
+password: test
+database: test
+encoding: utf8
