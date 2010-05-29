@@ -2,6 +2,8 @@
 
                A minimal Topic Maps Engine written in Ruby.
 
+            (Largely inspired by RTM [http://rtm.topicmapslab.de])
+
                           Alexander  Mikhailian
              <alexander.mikhailian@spaceapplications.com>
                           <mikhailian@mova.org>

@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
    s.has_rdoc = true
    s.summary = %q{Minimal Topic Maps engine.}
    s.homepage = %q{http://tm4r.mova.org/}
-   s.description = %q{TM4R is a Topic Maps engine written in Ruby. Inspired by RTM [http://rtm.rubyforge.org]}
+   s.description = %q{TM4R is a Topic Maps engine written in Ruby. Largely inspired by RTM [http://rtm.topicmapslab.de]}
    s.files = Dir.glob('**/*.rb').reject {|e| e =~ /^\.gem(spec)?$/} + %w[LICENSE README]
    s.add_dependency('activerecord', '>= 2.1.0')
    s.add_dependency('activesupport', '>= 2.1.0')
